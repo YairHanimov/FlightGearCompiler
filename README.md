@@ -2,7 +2,7 @@
 
 ## Preview
 
-**LINK TO GITHUB PROJECT:** https://github.com/eyalgolan/FlightGearProject
+**LINK TO GITHUB PROJECT:** https://github.com/YairHanimov/FlightGearInterpreter
  
 An interpreter that runs an autopilot for the **FlightGear** simulator
  (You can learn more about FlightGear [**here**](https://www.flightgear.org/ "FlightGear Homepage")).
